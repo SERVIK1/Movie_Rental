@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Rental</string>
+    <string name="text_registration">Зарегистрироваться</string>
+    <string name="text_entrance">Войти</string>
+    <string name="header_regisrt">Регистрация</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="lastname">Отчество</string>
+    <string name="mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="price">999999</string>
+    <string name="exit_account">Выйти из аккаунта</string>
+</resources>
